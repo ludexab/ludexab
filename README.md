@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ludexab
 - 👀 I’m a Data scientist and Software engineer
+- 🤖 Skilled in Computer vision
 - 🌱 I’m a continuous learner who wants to improve daily
 - 💞️ I’m looking to collaborate on any work you have to achieve
 - 📫 How to reach me ... Email capuitcw@gmail.com or ludexab@yahoo.com
