@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Abalaka Emmanuel Ileanwa
 - 👀 I’m a Data scientist and machine learning developer
-- 🤖 Skilled in machine learning models and Computer vision
 - 🌱 I’m a continuous learner who wants to improve daily
 - 💞️ I’m looking to collaborate on any work you have to achieve
 - 📫 How to reach me ... Email ileanwaabalaka@gmail.com
