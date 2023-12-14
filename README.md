@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emmanuel Ileanwa Abalaka
+- 👋 Hi, I am Emmanuel Ileanwa Abalaka
 - 👔 Software & Blockchain Engineer
 - 💼 Python, TypeScript, JavaScript, Solidity, Machine Learning & Data Science, Blockchain Development, React.js, Arduino Programming. 
 - 🌱 I’m always open to new challenges and to learning new skills to improve professionally and personally.
