@@ -1,10 +1,10 @@
 - 👋 Hi, I am Emmanuel Ileanwa Abalaka
-- 👔 Software & Blockchain Engineer
-- 💼 Python, TypeScript, JavaScript, Solidity, Machine Learning & Data Science, Blockchain Development, React.js, Arduino Programming. 
+- 👔 Ethical Hacher, Software & Blockchain Engineer
+- 💼 Python, TypeScript, JavaScript, Solidity, Machine Learning & Data Science, Blockchain Development, React.js, Firmware development with Arduino. 
 - 🌱 I’m always open to new challenges and to learning new skills to improve professionally and personally.
-- 📫 How to reach me ... Email ileanwaabalaka@gmail.com
+- 📫 Please reach me via email at ileanwaabalaka@gmail.com or on phone +2348100916527
 Twitter @robo_hatcher
-Instagram @robo_atcher
+Instagram @emmy.abalaka
 
 <!---
 ludexab/ludexab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
