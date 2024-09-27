@@ -2,7 +2,6 @@
 - 👔 Ethical Hacher, Software & Blockchain Engineer
 - 💼 Python, TypeScript, JavaScript, Solidity, Machine Learning & Data Science, Blockchain Development, React.js, Firmware development with Arduino. 
 - 🌱 I’m always open to new challenges and to learning new skills to improve professionally and personally.
-- 📫 Please reach me via email at ileanwaabalaka@gmail.com or on phone +2348100916527
 Twitter @robo_hatcher
 Instagram @emmy.abalaka
 
