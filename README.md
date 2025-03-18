@@ -1,7 +1,6 @@
 - 👋 Hi, I am Emmanuel Ileanwa Abalaka.
 - 👔 Ethical Hacher, AppSec/DevSecOps Engineer.
 - 👔 Ethical hacking & penetration testing, AI security, vulnerability assessment and network security.
-- 💼 Python, TypeScript, JavaScript, Solidity, Machine Learning & Data Science, Blockchain Development, React.js, Firmware development with Arduino. 
 - 🌱 I’m always open to new challenges and to learning new skills to improve professionally and personally.
 Twitter @robo_hatcher
 Instagram @emmy.abalaka
